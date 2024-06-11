@@ -1,0 +1,393 @@
+alpha_code,country_name,nationality,lang
+AF,Afghanistan,Afghan,en
+AL,Albania,Albanian,en
+DZ,Algeria,Algerian,en
+AD,Andorra,Andorran,en
+AO,Angola,Angolan,en
+AG,Antigua and Barbuda,Antiguan or Barbudan,en
+AR,Argentina,Argentine,en
+AM,Armenia,Armenian,en
+AU,Australia,Australian,en
+AT,Austria,Austrian,en
+AZ,Azerbaijan,"Azerbaijani, Azeri",en
+BS,Bahamas,Bahamian,en
+BH,Bahrain,Bahraini,en
+BD,Bangladesh,Bangladeshi,en
+BB,Barbados,Barbadian,en
+BY,Belarus,Belarusian,en
+BE,Belgium,Belgian,en
+BZ,Belize,Belizean,en
+BJ,Benin,"Beninese, Beninois",en
+BT,Bhutan,Bhutanese,en
+BO,Bolivia (Plurinational State of),Bolivian,en
+BA,Bosnia and Herzegovina,Bosnian or Herzegovinian,en
+BW,Botswana,"Motswana, Botswanan",en
+BR,Brazil,Brazilian,en
+BN,Brunei Darussalam,Bruneian,en
+BG,Bulgaria,Bulgarian,en
+BF,Burkina Faso,Burkinabé,en
+BI,Burundi,Burundian,en
+CV,Cabo Verde,Cabo Verdean,en
+KH,Cambodia,Cambodian,en
+CM,Cameroon,Cameroonian,en
+CA,Canada,Canadian,en
+CF,Central African Republic,Central African,en
+TD,Chad,Chadian,en
+CL,Chile,Chilean,en
+CN,China,Chinese,en
+CO,Colombia,Colombian,en
+KM,Comoros,"Comoran, Comorian",en
+CG,Congo (Republic of the),Congolese,en
+CD,Congo (Democratic Republic of the),Congolese,en
+CR,Costa Rica,Costa Rican,en
+CI,Côte d'Ivoire,Ivorian,en
+HR,Croatia,Croatian,en
+CU,Cuba,Cuban,en
+CT,Cyprus,Cypriot,en
+CZ,Czech Republic,Czech,en
+DK,Denmark,Danish,en
+DJ,Djibouti,Djiboutian,en
+DM,Dominica,Dominican,en
+DO,Dominican Republic,Dominican,en
+EC,Ecuador,Ecuadorian,en
+EG,Egypt,Egyptian,en
+SV,El Salvador,Salvadoran,en
+GQ,Equatorial Guinea,"Equatorial Guinean, Equatoguinean",en
+ER,Eritrea,Eritrean,en
+EE,Estonia,Estonian,en
+ET,Ethiopia,Ethiopian,en
+FJ,Fiji,Fijian,en
+FI,Finland,Finnish,en
+FR,France,French,en
+GA,Gabon,Gabonese,en
+GM,Gambia,Gambian,en
+GE,Georgia,Georgian,en
+DE,Germany,German,en
+GH,Ghana,Ghanaian,en
+GR,Greece,"Greek, Hellenic",en
+GD,Grenada,Grenadian,en
+GT,Guatemala,Guatemalan,en
+GN,Guinea,Guinean,en
+GW,Guinea-Bissau,Bissau-Guinean,en
+GY,Guyana,Guyanese,en
+HT,Haiti,Haitian,en
+VA,Vatican City State,Vatican,en
+HN,Honduras,Honduran,en
+HU,Hungary,"Hungarian, Magyar",en
+IS,Iceland,Icelandic,en
+IN,India,Indian,en
+ID,Indonesia,Indonesian,en
+IR,Iran,"Iranian, Persian",en
+IQ,Iraq,Iraqi,en
+IE,Ireland,Irish,en
+IL,Israel,Israeli,en
+IT,Italy,Italian,en
+JM,Jamaica,Jamaican,en
+JP,Japan,Japanese,en
+JO,Jordan,Jordanian,en
+KZ,Kazakhstan,"Kazakhstani, Kazakh",en
+KE,Kenya,Kenyan,en
+KI,Kiribati,I-Kiribati,en
+KP,Korea (Democratic People's Republic of),North Korean,en
+KR,Korea (Republic of),South Korean,en
+KW,Kuwait,Kuwaiti,en
+KG,Kyrgyzstan,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",en
+LA,Lao People's Democratic Republic,"Lao, Laotian",en
+LV,Latvia,Latvian,en
+LB,Lebanon,Lebanese,en
+LS,Lesotho,Basotho,en
+LR,Liberia,Liberian,en
+LY,Libya,Libyan,en
+LI,Liechtenstein,Liechtenstein,en
+LT,Lithuania,Lithuanian,en
+LU,Luxembourg,"Luxembourg, Luxembourgish",en
+MK,Macedonia (the former Yugoslav Republic of),Macedonian,en
+MG,Madagascar,Malagasy,en
+MW,Malawi,Malawian,en
+MY,Malaysia,Malaysian,en
+MV,Maldives,Maldivian,en
+ML,Mali,"Malian, Malinese",en
+MT,Malta,Maltese,en
+MH,Marshall Islands,Marshallese,en
+MR,Mauritania,Mauritanian,en
+MU,Mauritius,Mauritian,en
+MX,Mexico,Mexican,en
+FM,Micronesia (Federated States of),Micronesian,en
+MD,Moldova (Republic of),Moldovan,en
+MC,Monaco,"Monégasque, Monacan",en
+MN,Mongolia,Mongolian,en
+ME,Montenegro,Montenegrin,en
+MA,Morocco,Moroccan,en
+MZ,Mozambique,Mozambican,en
+MM,Myanmar,Burmese,en
+NA,Namibia,Namibian,en
+NR,Nauru,Nauruan,en
+NP,Nepal,"Nepali, Nepalese",en
+NL,Netherlands,"Dutch, Netherlandic",en
+NZ,New Zealand,"New Zealand, NZ",en
+NI,Nicaragua,Nicaraguan,en
+NE,Niger,Nigerien,en
+NG,Nigeria,Nigerian,en
+NO,Norway,Norwegian,en
+OM,Oman,Omani,en
+PK,Pakistan,Pakistani,en
+PW,Palau,Palauan,en
+PS,"Palestine, State of",Palestinian,en
+PA,Panama,Panamanian,en
+PG,Papua New Guinea,"Papua New Guinean, Papuan",en
+PY,Paraguay,Paraguayan,en
+PE,Peru,Peruvian,en
+PH,Philippines,"Philippine, Filipino",en
+PL,Poland,Polish,en
+PT,Portugal,Portuguese,en
+QA,Qatar,Qatari,en
+RO,Romania,Romanian,en
+RU,Russian Federation,Russian,en
+RW,Rwanda,Rwandan,en
+KN,Saint Kitts and Nevis,Kittitian or Nevisian,en
+LC,Saint Lucia,Saint Lucian,en
+VC,Saint Vincent and the Grenadines,"Saint Vincentian, Vincentian",en
+WS,Samoa,Samoan,en
+SM,San Marino,Sammarinese,en
+ST,Sao Tome and Principe,São Toméan,en
+SA,Saudi Arabia,"Saudi, Saudi Arabian",en
+SN,Senegal,Senegalese,en
+RS,Serbia,Serbian,en
+SC,Seychelles,Seychellois,en
+SL,Sierra Leone,Sierra Leonean,en
+SG,Singapore,Singaporean,en
+SK,Slovakia,Slovak,en
+SI,Slovenia,"Slovenian, Slovene",en
+SB,Solomon Islands,Solomon Island,en
+SO,Somalia,"Somali, Somalian",en
+ZA,South Africa,South African,en
+SS,South Sudan,South Sudanese,en
+ES,Spain,Spanish,en
+LK,Sri Lanka,Sri Lankan,en
+SD,Sudan,Sudanese,en
+SR,Suriname,Surinamese,en
+SZ,Swaziland,Swazi,en
+SE,Sweden,Swedish,en
+CH,Switzerland,Swiss,en
+SY,Syrian Arab Republic,Syrian,en
+TJ,Tajikistan,Tajikistani,en
+TZ,"Tanzania, United Republic of",Tanzanian,en
+TH,Thailand,Thai,en
+TL,Timor-Leste,Timorese,en
+TG,Togo,Togolese,en
+TO,Tonga,Tongan,en
+TT,Trinidad and Tobago,Trinidadian or Tobagonian,en
+TN,Tunisia,Tunisian,en
+TR,Turkey,Turkish,en
+TM,Turkmenistan,Turkmen,en
+TV,Tuvalu,Tuvaluan,en
+UG,Uganda,Ugandan,en
+UA,Ukraine,Ukrainian,en
+AE,United Arab Emirates,"Emirati, Emirian, Emiri",en
+GB,United Kingdom of Great Britain and Northern Ireland,"British, UK",en
+US,United States of America,American,en
+UY,Uruguay,Uruguayan,en
+UZ,Uzbekistan,"Uzbekistani, Uzbek",en
+VU,Vanuatu,"Ni-Vanuatu, Vanuatuan",en
+VE,Venezuela (Bolivarian Republic of),Venezuelan,en
+VN,Vietnam,Vietnamese,en
+YE,Yemen,Yemeni,en
+ZM,Zambia,Zambian,en
+ZW,Zimbabwe,Zimbabwean,en
+AF,Afganistan,Afgan,tr
+AL,Arnavutluk,Arnavut,tr
+DZ,Cezayir,Cezayirli,tr
+AD,Andorra,Andorralı,tr
+AO,Angola,Angolalı,tr
+AG,"Antigua and Barbuda ","Antigua Ve
+Barbudalı",tr
+AR,Arjantin,Arjantinli,tr
+AM,Ermenistan,Ermeni,tr
+AU,Avustralya,Avustralyalı,tr
+AT,Avusturya,Avusturyalı,tr
+AZ,Azerbaycan,Azerbaycanlı,tr
+BS,Bahamalar,Bahamalı,tr
+BH,Bahreyn,Bahreynli,tr
+BD,Bangladeş,Bangladeşli,tr
+BB,Barbados,Barbadoslu,tr
+BY,Belarus,Belaruslu,tr
+BE,Belçika,Belçikalı,tr
+BZ,Belize,Belizeli,tr
+BJ,Benin,Beninli,tr
+BT,Butan,Butanlı,tr
+BO,Bolivya,Bolivyalı,tr
+BA,Bosna Hersek,Bosna Hersekli,tr
+BW,Botsvana,Botsvanalı,tr
+BR,Brezilya,Brezilyalı,tr
+BN,Bruney,Bruneyli,tr
+BG,Bulgaristan,Bulgar,tr
+BF,Burkina Faso,Burkina Fasolu,tr
+BI,Burundi,Burundili,tr
+CV,Cabo Verde,Cabo Verdeli,tr
+KH,Kamboçya,Kamboçyalı,tr
+CM,Kamerun,Kamerunlu,tr
+CA,Kanada,Kanadalı,tr
+CF,Orta Afrika Cumhuriyeti,Orta Afrikalı,tr
+TD,Çad,Çadlı,tr
+CL,Şili,Şilili,tr
+CN,Çin,Çinli,tr
+CO,Kolombiya,Kolombiyalı,tr
+KM,Komorlar,Komorlu,tr
+CG,Kongo,Kongolu,tr
+CD,Kongo Demokratik Cumhuriyeti,Demokratik Kongolu,tr
+CR,Kosta Rika,Kosta Rikalı,tr
+CI,Kotdivuar,Kotdivuarlı,tr
+HR,Hırvatistan,Hırvat,tr
+CU,Küba,Kübalı,tr
+CT,Kuzey Kıbrıs Türk Cumhuriyeti,KIbrıslı Türk,tr
+CZ,Çekya,Çek,tr
+DK,Danimarka,Danimarkalı,tr
+DJ,"Cibuti ",Cibutili,tr
+DM,Dominika,Dominikalı,tr
+DO,Dominik Cumhuriyeti,Dominikli,tr
+EC,Ekvator,Ekvatorlu,tr
+EG,Mısır,Mısırlı,tr
+SV,El Salvador,El Salvadorlu,tr
+GQ,Ekvator Ginesi,Ekvator Gineli,tr
+ER,Eritre,Eritreli,tr
+EE,Estonya,Eston,tr
+ET,"Etiyopya 
+",Etiyopyalı,tr
+FJ,Fiji,Fijili,tr
+FI,Finlandiya,Fin,tr
+FR,Fransa,Fransız,tr
+GA,Gabon,Gabonlu,tr
+GM,Gambiya,Gambiyalı,tr
+GE,Gürcistan,Gürcü,tr
+DE,Almanya,Alman,tr
+GH,Gana,Ganalı,tr
+GR,Yunanistan,Yunan,tr
+GD,Grenada,Grenadalı,tr
+GT,Guatemala,Guatemalalı,tr
+GN,Gine,Gineli,tr
+GW,Gine - Bissau,Gine - Bissaulu,tr
+GY,Guyana,Guyanalı,tr
+HT,Haiti,Haitili,tr
+VA,Vatikan,Vatikan Vatandaşı,tr
+HN,Honduras,Honduraslı,tr
+HU,Macaristan,Macar,tr
+IS,İzlanda,İzlandalı,tr
+IN,Hindistan,Hintli,tr
+ID,Endonezya,Endonezyalı,tr
+IR,İran,İranlı,tr
+IQ,Irak,Iraklı,tr
+IE,İrlanda,İrlandalı,tr
+IL,İsrail,İsrailli,tr
+IT,İtalya,İtalya,tr
+JM,Jamaika,Jamaikalı,tr
+JP,Japonya,Japon,tr
+JO,Ürdün,Ürdünlü,tr
+KZ,Kazakistan,Kazak,tr
+KE,Kenya,Kenyalı,tr
+KI,Kiribati,Kiribatili,tr
+KP,"Kuzey Kore ",Kuzey Koreli,tr
+KR,Güney Kore,Güney Koreli,tr
+KW,Kuveyt,Kuveytli,tr
+KG,Kırgızıstan,Kırgız,tr
+LA,Laos,Laoslu,tr
+LV,Letonya,Leton,tr
+LB,Lüblan,Lüblanlı,tr
+LS,Lesotho,Lesotholu,tr
+LR,Liberya,Liberyalı,tr
+LY,Libya,Libyalı,tr
+LI,Lihtenştayn,Lihtenştaynlı,tr
+LT,Litvanya,Litvanyalı,tr
+LU,Lüksemburg,Lüksemburglu,tr
+MK,Kuzey Makedonya,Kuzey Makedonyalı,tr
+MG,Madagaskar,Madagaskarlı,tr
+MW,Malavi,Malavili,tr
+MY,Malezya,Malezyalı,tr
+MV,Maldivler,Maldivli,tr
+ML,Mali,Malili,tr
+MT,Malta,Maltalı,tr
+MH,Marşal Adaları,Marşal Adalı,tr
+MR,Moritanya,Moritanyalı,tr
+MU,Morityus,Morityuslu,tr
+MX,Meksika,Meksikalı,tr
+FM,Mikronezya,Mikronezyalı,tr
+MD,Moldova,Moldovalı,tr
+MC,Monako,Monakolu,tr
+MN,Moğolistan,Moğol,tr
+ME,Karadağ,Karadağlı,tr
+MA,Fas,Faslı,tr
+MZ,Mozambik,Mozambikli,tr
+MM,Myanmar,Myanmarlı,tr
+NA,Namibya,Namibyalı,tr
+NR,Nauru,Naurulu,tr
+NP,Nepal,Nepallı,tr
+NL,Hollanda,Hollandalı,tr
+NZ,Yeni Zelanda,Yeni Zelandalı,tr
+NI,Nikaragua,Nikaragualı,tr
+NE,Nijer,Nijerli,tr
+NG,Nijerya,Nijeryalı,tr
+NO,Norveç,Norveçli,tr
+OM,Umman,Ummanlı,tr
+PK,Pakistan,Pakistanlı,tr
+PW,Palau,Palaulu,tr
+PS,Filistin,Filistinli,tr
+PA,Panama,Panamalı,tr
+PG,Papua Yeni Gine,Papua Yeni Gineli,tr
+PY,Paraguay,Paraguaylı,tr
+PE,Peru,Perulu,tr
+PH,Filipinler,Filipinli,tr
+PL,Polonya,Polonyalı,tr
+PT,Portekiz,Portekizli,tr
+QA,Katar,Katarlı,tr
+RO,Romanya,Romen,tr
+RU,Rusya,Rus,tr
+RW,Ruanda,Ruandalı,tr
+KN,Saint Kitts and Nevis,Saint Kitts and Nevisli,tr
+LC,Saint Lucia,Saint Lucialı,tr
+VC,Saint Vincent Ve Grenadinler,Saint Vincent Ve Grenadinlerli,tr
+WS,Samoa,Samoalı,tr
+SM,San Marino,San Marinolu,tr
+ST,Sao Tome Ve Prinsipe,Sao Tome Ve Prinsipeli,tr
+SA,Suudi Arabistan,Suudi,tr
+SN,Senegal,Senegalli,tr
+RS,Sırbistan,Sırp,tr
+SC,Seyşeller,Seyşelli,tr
+SL,Sierra Leone,Sierra Leoneli,tr
+SG,Singapur,Singapurlu,tr
+SK,Slovakya,Slovak,tr
+SI,Slovenya,Sloven,tr
+SB,Solomon Adaları,Solomon Adalı,tr
+SO,Somali,Somalili,tr
+ZA,Güney Afrika Cumhuriyeti,Güney Afrikalı,tr
+SS,Güney Sudan,Güney Sudanlı,tr
+ES,İspanya,İspanyol,tr
+LK,Sri Lanka,Sri Lankalı,tr
+SD,Sudan,Sudanlı,tr
+SR,Surinam,Surinamlı,tr
+SZ,Esvatini,Svazi,tr
+SE,İsveç,İsveçli,tr
+CH,İsviçre,İsviçreli,tr
+SY,Suriye,Suriyeli,tr
+TJ,Tacikistan,Tacik,tr
+TZ,Tanzanya,Tanzanyalı,tr
+TH,Tayland,Taylandlı,tr
+TL,Doğu Timor,Doğu Timorlu,tr
+TG,Togo,Togolu,tr
+TO,Tonga,Tongalı,tr
+TT,Trinidad and Tobago,Trinidad and Tobagolu,tr
+TN,Tunus,Tunuslu,tr
+TR,Türkiye,Türk,tr
+TM,Türkmenistan,Türkmen,tr
+TV,Tuvalu,Tuvalulu,tr
+UG,Uganda,Ugandalı,tr
+UA,Ukrayna,Ukraynalı,tr
+AE,Birleşik Arap Emirlikleri,Birleşik Arap Emirlikleri,tr
+GB,Birleşik Krallık,İngiliz,tr
+US,Amerika,Amerikalı,tr
+UY,Uruguay,Uruguaylı,tr
+UZ,Özbekistan,Özbek,tr
+VU,Vanuatu,Vanuatulu,tr
+VE,Venezuela,Venezuelalı,tr
+VN,Vietnam,Vietnamlı,tr
+YE,Yemen,Yemenli,tr
+ZM,Zambiya,Zambiyalı,tr
+ZW,Zimbabve,Zimbabveli,tr
